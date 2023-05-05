@@ -1,0 +1,12 @@
+name: "schematics-refresher",
+displayName: "Schematics Refresher",
+author: "Cardillan",
+description: "Refreshes schematics stored in the [lightgray]/schematics[] subdirectory whenever the game loads or the [gold]Refresh[] button is pressed.
+
+This mod is only useful if you modify these schematics externally, e.g. by building them using Mindcode - https://github.com/cardillan/mindcode
+
+A few minor sample schematics are included.
+",
+version: 1.0,
+minGameVersion: 142,
+hidden: true
